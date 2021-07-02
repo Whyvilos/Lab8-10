@@ -1,0 +1,5 @@
+file:///P:/py/lab8/sites/site3.html
+file:///P:/py/lab8/sites/site5.html
+file:///P:/py/lab8/sites/site7.html
+file:///P:/py/lab8/sites/site9.html
+file:///P:/py/lab8/sites/site10.html

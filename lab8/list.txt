@@ -1,0 +1,10 @@
+file:///P:/py/lab8/sites/site1.html
+file:///P:/py/lab8/sites/site2.html
+file:///P:/py/lab8/sites/site3.html
+file:///P:/py/lab8/sites/site4.html
+file:///P:/py/lab8/sites/site5.html
+file:///P:/py/lab8/sites/site6.html
+file:///P:/py/lab8/sites/site7.html
+file:///P:/py/lab8/sites/site8.html
+file:///P:/py/lab8/sites/site9.html
+file:///P:/py/lab8/sites/site10.html
